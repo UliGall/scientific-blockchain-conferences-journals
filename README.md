@@ -1,6 +1,9 @@
 # List of Scientific Blockchain Conferences and Journals 
 Redacted list of scientific Blockchain Conferences and Journals, ordered by submission deadline.
 
+## Other lists
+- [WikiCFP](http://www.wikicfp.com/cfp/call?conference=blockchain)
+
 ## Contribute
 Please create issue/pull request.
 
