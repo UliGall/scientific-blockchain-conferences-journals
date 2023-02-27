@@ -2,6 +2,8 @@
 
 Curated list of scientific Blockchain Conferences and Journals, ordered by submission deadline.
 
+Note 2023-02.27: Archived because out of date.
+
 ## Other lists
 
 - [WikiCFP Blockchain](http://www.wikicfp.com/cfp/call?conference=blockchain)
